@@ -64,9 +64,6 @@
 - category: 剪辑
   icon: 🎬
   items:
-    - name: 必剪
-      url: https://bcut.bilibili.cn
-      desc: B站官方出品剪辑工具
     - name: LosslessCut
       url: https://github.com/mifi/lossless-cut
       desc: 无损视频剪切工具，不重新编码
