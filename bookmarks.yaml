@@ -61,7 +61,7 @@
       desc: 开源多线程下载加速，速度最高提升500%
       opensource: true
 
-- category: 剪辑
+- category: 视频处理
   icon: 🎬
   items:
     - name: LosslessCut
