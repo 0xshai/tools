@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🛠️ 编程工具
 
 | 工具 | 描述 | 开源 |
@@ -27,7 +28,7 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [ArcBrush](https://arcbrush.com/) | 节点式修图工具 | |
+| [ArcBrush](https://arcbrush.com/) | 节点式修图工具 |  |
 | [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
 | [Darktable](https://www.darktable.org) | 专业 RAW 后期处理，Lightroom 开源替代 | 🔓 |
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
@@ -39,11 +40,10 @@
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
 | [AB Download](https://abdownloadmanager.com) | 开源多线程下载加速，速度最高提升500% | 🔓 |
 
-## 🎬 剪辑
+## 🎬 视频处理
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [必剪](https://bcut.bilibili.cn) | B站官方出品剪辑工具 | |
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 无损视频剪切工具，不重新编码 | 🔓 |
 
 ## ✏️ 设计
@@ -58,7 +58,7 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [PowerToys](https://github.com/microsoft/PowerToys) | 微软出品 Windows 效率工具集 | 🔓 |
-| [Everything](https://voidtools.com) | Windows 文件秒搜 | |
+| [Everything](https://voidtools.com) | Windows 文件秒搜 |  |
 | [Flow Launcher](https://flowlauncher.com) | Windows 快速启动工具 | 🔓 |
 | [ShareX](https://getsharex.com) | 强大的截图录屏工具 | 🔓 |
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
@@ -68,8 +68,8 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [DeepL](https://deepl.com) | 高质量 AI 翻译，支持文档翻译 | |
-| [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 | |
+| [DeepL](https://deepl.com) | 高质量 AI 翻译，支持文档翻译 |  |
+| [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
 
 ## 🔄 文件同步
 
@@ -88,7 +88,7 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [Outlook](https://outlook.com) | 微软邮箱，功能全面 | |
+| [Outlook](https://outlook.com) | 微软邮箱，功能全面 |  |
 | [Proton Mail](https://proton.me) | 端对端加密，瑞士服务器 | 🔓 |
 | [Tuta Mail](https://tuta.com) | 德国团队，连元数据都加密 | 🔓 |
 
@@ -119,7 +119,7 @@
 |------|------|------|
 | [Notesnook](https://notesnook.com) | 端对端加密笔记，注重隐私 | 🔓 |
 | [Tolaria](https://tolaria.md/) | 本地优先的卡片式笔记工具 | 🔓 |
-| [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown | |
+| [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown |  |
 
 ## ☁️ 加密云盘
 
@@ -128,6 +128,7 @@
 | [Ente](https://ente.io) | 端对端加密的照片与视频存储服务 | 🔓 |
 | [Ente Locker](https://ente.com/locker) | 端对端加密的文档保险箱，支持紧急联系人移交 | 🔓 |
 | [Filen](https://filen.io) | 德国端对端加密云盘，可同步任意文件 | 🔓 |
+| [MEGA](https://mega.io) | 老牌加密云存储服务，免费空间较大 |  |
 
 ## 🤖 本地 AI
 
