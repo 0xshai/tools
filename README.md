@@ -61,7 +61,6 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [PowerToys](https://github.com/microsoft/PowerToys) | 微软出品 Windows 效率工具集 | 🔓 |
 | [Everything](https://voidtools.com) | Windows 文件秒搜 |  |
 | [Flow Launcher](https://flowlauncher.com) | Windows 快速启动工具 | 🔓 |
 | [ShareX](https://getsharex.com) | 强大的截图录屏工具 | 🔓 |
@@ -147,7 +146,6 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [TypeWords](https://typewords.cc) | 以打字输入为核心的英语记忆系统，FSRS 间隔复习，数据本地存储 | 🔓 |
-| [Anki](https://apps.ankiweb.net) | 间隔复习卡片工具，支持导入现成词库，跨平台开源 | 🔓 |
 | [Exercism](https://exercism.org) | 编程练习平台，有真人 mentor 异步代码评审，Python 轨道质量高 | 🔓 |
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
 
