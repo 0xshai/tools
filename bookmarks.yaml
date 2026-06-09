@@ -124,7 +124,7 @@
       desc: 专业英汉词典，支持本地词库
     - name: 沙拉查词
       url: https://saladict.crimx.com
-      desc: 浏览器划词翻译扩展，聚合词典 、沉浸式(对照)翻译 & 查词
+      desc: 浏览器划词翻译，可同步至欧路词典
       opensource: true
 
 - category: 文件同步
