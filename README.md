@@ -15,6 +15,7 @@
 | [Zed](https://zed.dev/) | 轻量极速的现代代码编辑器 | 🔓 |
 | [WezTerm](https://wezfurlong.org/wezterm) | 高性能跨平台终端模拟器 | 🔓 |
 | [Lazygit](https://github.com/jesseduffield/lazygit) | 终端里的 Git 可视化工具 | 🔓 |
+| [Regex101](https://regex101.com) | 正则表达式在线调试，实时高亮匹配，支持多语言引擎 |  |
 
 ## 🦁 浏览器
 
@@ -73,6 +74,7 @@
 |------|------|------|
 | [DeepL](https://deepl.com) | 高质量 AI 翻译，支持文档翻译 |  |
 | [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
+| [沙拉查词](https://saladict.crimx.com) | 浏览器划词翻译扩展，支持 DeepL 等多引擎，可收藏单词本导出 Anki | 🔓 |
 
 ## 🔄 文件同步
 
@@ -137,12 +139,17 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [Super Productivity](https://super-productivity.com) | 本地优先的任务管理与时间追踪，支持 Jira/GitHub/GitLab 集成 | 🔓 |
+| [ActivityWatch](https://activitywatch.net) | 自动记录应用与网页使用时间，数据完全本地，开源无云 | 🔓 |
+| [CopyQ](https://hluk.github.io/CopyQ/) | 开源剪贴板历史管理，支持搜索、分类与脚本扩展 | 🔓 |
 
 ## 📖 学习工具
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [TypeWords](https://typewords.cc) | 以打字输入为核心的英语记忆系统，FSRS 间隔复习，数据本地存储 | 🔓 |
+| [Anki](https://apps.ankiweb.net) | 间隔复习卡片工具，支持导入现成词库，跨平台开源 | 🔓 |
+| [Exercism](https://exercism.org) | 编程练习平台，有真人 mentor 异步代码评审，Python 轨道质量高 | 🔓 |
+| [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
 
 ## 🤖 本地 AI
 
