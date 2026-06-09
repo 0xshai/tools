@@ -32,6 +32,8 @@
 | [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
 | [Darktable](https://www.darktable.org) | 专业 RAW 后期处理，Lightroom 开源替代 | 🔓 |
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
+| [Photopea](https://www.photopea.com) | 在线 PS 替代，支持 PSD/AI/XD 格式，无需安装 |  |
+| [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
 
 ## ⬇️ 下载工具
 
@@ -40,10 +42,11 @@
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
 | [AB Download](https://abdownloadmanager.com) | 开源多线程下载加速，速度最高提升500% | 🔓 |
 
-## 🎬 视频处理
+## 🎬 剪辑
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
+| [必剪](https://bcut.bilibili.cn) | B站官方出品剪辑工具 |  |
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 无损视频剪切工具，不重新编码 | 🔓 |
 
 ## ✏️ 设计
@@ -128,7 +131,18 @@
 | [Ente](https://ente.io) | 端对端加密的照片与视频存储服务 | 🔓 |
 | [Ente Locker](https://ente.com/locker) | 端对端加密的文档保险箱，支持紧急联系人移交 | 🔓 |
 | [Filen](https://filen.io) | 德国端对端加密云盘，可同步任意文件 | 🔓 |
-| [MEGA](https://mega.io) | 老牌加密云存储服务，免费空间较大 |  |
+
+## ⏱️ 效率工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Super Productivity](https://super-productivity.com) | 本地优先的任务管理与时间追踪，支持 Jira/GitHub/GitLab 集成 | 🔓 |
+
+## 📖 学习工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [TypeWords](https://typewords.cc) | 以打字输入为核心的英语记忆系统，FSRS 间隔复习，数据本地存储 | 🔓 |
 
 ## 🤖 本地 AI
 
