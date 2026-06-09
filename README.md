@@ -71,9 +71,8 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [DeepL](https://deepl.com) | 高质量 AI 翻译，支持文档翻译 |  |
 | [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
-| [沙拉查词](https://saladict.crimx.com) | 浏览器划词翻译扩展，支持 DeepL 等多引擎，可收藏单词本导出 Anki | 🔓 |
+| [沙拉查词](https://saladict.crimx.com) | 浏览器划词翻译扩展，聚合词典 、沉浸式(对照)翻译 & 查词 | 🔓 |
 
 ## 🔄 文件同步
 
