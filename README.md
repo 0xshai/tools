@@ -35,6 +35,8 @@
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
 | [Photopea](https://www.photopea.com) | 在线 PS 替代，支持 PSD/AI/XD 格式，无需安装 |  |
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
+| [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
+| [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
 
 ## ⬇️ 下载工具
 
@@ -49,6 +51,7 @@
 |------|------|------|
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 无损视频剪切工具，不重新编码 | 🔓 |
 | [OBS Studio](https://obsproject.com) | 专业录屏与直播推流工具，跨平台开源 | 🔓 |
+| [HandBrake](https://handbrake.fr) | 开源视频转码压制工具，支持 AV1/H.265/H.264，跨平台免费 | 🔓 |
 
 ## ✏️ 设计
 
