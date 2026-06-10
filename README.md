@@ -43,11 +43,10 @@
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
 | [AB Download](https://abdownloadmanager.com) | 开源多线程下载加速，速度最高提升500% | 🔓 |
 
-## 🎬 剪辑
+## 🎬 视频处理
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [必剪](https://bcut.bilibili.cn) | B站官方出品剪辑工具 |  |
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 无损视频剪切工具，不重新编码 | 🔓 |
 
 ## ✏️ 设计
