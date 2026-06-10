@@ -48,6 +48,7 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [LosslessCut](https://github.com/mifi/lossless-cut) | 无损视频剪切工具，不重新编码 | 🔓 |
+| [OBS Studio](https://obsproject.com) | 专业录屏与直播推流工具，跨平台开源 | 🔓 |
 
 ## ✏️ 设计
 
@@ -62,7 +63,7 @@
 |------|------|------|
 | [Everything](https://voidtools.com) | Windows 文件秒搜 |  |
 | [Flow Launcher](https://flowlauncher.com) | Windows 快速启动工具 | 🔓 |
-| [ShareX](https://getsharex.com) | 强大的截图录屏工具 | 🔓 |
+| [Flameshot](https://flameshot.org) | 跨平台开源截图工具，支持标注与上传 | 🔓 |
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
 
