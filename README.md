@@ -31,9 +31,7 @@
 |------|------|------|
 | [ArcBrush](https://arcbrush.com/) | 节点式修图工具 |  |
 | [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
-| [Darktable](https://www.darktable.org) | 专业 RAW 后期处理，Lightroom 开源替代 | 🔓 |
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
-| [Photopea](https://www.photopea.com) | 在线 PS 替代，支持 PSD/AI/XD 格式，无需安装 |  |
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
 | [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
 | [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
@@ -158,6 +156,12 @@
 | [Ollama](https://ollama.com) | 本地 LLM 运行时，一条命令拉模型，提供 OpenAI 兼容 API | 🔓 |
 | [Jan](https://jan.ai) | 本地优先的 AI 客户端，内置聊天界面，可作为 Ollama 前端 | 🔓 |
 | [Ensu](https://ente.com/blog/ensu) | 本地运行的 AI 聊天，模型不联网，对话不离开设备 | 🔓 |
+
+## 🧠 AI 工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Agency-Agents](https://github.com/msitarzewski/agency-agents) | 200+ 专业 AI Agent 角色集合，覆盖工程、设计、营销等领域，兼容 Ollama 本地模型 | 🔓 |
 
 ---
 
