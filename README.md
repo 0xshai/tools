@@ -139,7 +139,6 @@
 |------|------|------|
 | [Super Productivity](https://super-productivity.com) | 本地优先的任务管理与时间追踪，支持 Jira/GitHub/GitLab 集成 | 🔓 |
 | [ActivityWatch](https://activitywatch.net) | 自动记录应用与网页使用时间，数据完全本地，开源无云 | 🔓 |
-| [CopyQ](https://hluk.github.io/CopyQ/) | 开源剪贴板历史管理，支持搜索、分类与脚本扩展 | 🔓 |
 
 ## 📖 学习工具
 
@@ -156,6 +155,7 @@
 | [Ollama](https://ollama.com) | 本地 LLM 运行时，一条命令拉模型，提供 OpenAI 兼容 API | 🔓 |
 | [Jan](https://jan.ai) | 本地优先的 AI 客户端，内置聊天界面，可作为 Ollama 前端 | 🔓 |
 | [Ensu](https://ente.com/blog/ensu) | 本地运行的 AI 聊天，模型不联网，对话不离开设备 | 🔓 |
+| [Voicebox](https://voicebox.sh) | 开源本地 AI 语音工作室，声音克隆、全局听写、TTS 生成一体，数据不离本机，支持 MCP 接入 Claude | 🔓 |
 
 ## 🧠 AI 工具
 
