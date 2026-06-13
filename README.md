@@ -51,6 +51,14 @@
 | [OBS Studio](https://obsproject.com) | 专业录屏与直播推流工具，跨平台开源 | 🔓 |
 | [HandBrake](https://handbrake.fr) | 开源视频转码压制工具，支持 AV1/H.265/H.264，跨平台免费 | 🔓 |
 | [MediaInfo](https://mediaarea.net/en/MediaInfo) | 视频与音频文件技术参数查看工具，编码、码率、色彩空间等信息一览无余 | 🔓 |
+| [CompressO](https://compresso.codeforreal.com/) | 跨平台视频与图片压缩工具，FFmpeg 驱动，本地运行不上传，支持批量处理 | 🔓 |
+
+## 🎞️ 视频播放
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [mpv](https://mpv.io) | 轻量高性能的命令行视频播放器，支持脚本扩展，GPU 解码，几乎兼容所有格式 | 🔓 |
+| [Screenbox](https://github.com/huynhsontung/Screenbox) | 基于 libVLC 的现代 Windows 视频播放器，界面简洁流畅，支持网络串流 | 🔓 |
 
 ## ✏️ 设计
 
@@ -68,6 +76,7 @@
 | [Flameshot](https://flameshot.org) | 跨平台开源截图工具，支持标注与上传 | 🔓 |
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
+| [WindowsCleaner](https://github.com/ElectroHeavenVN/WindowsCleaner) | 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项 | 🔓 |
 
 ## 🌐 翻译工具
 
