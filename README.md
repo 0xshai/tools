@@ -17,6 +17,13 @@
 | [Lazygit](https://github.com/jesseduffield/lazygit) | 终端里的 Git 可视化工具 | 🔓 |
 | [Regex101](https://regex101.com) | 正则表达式在线调试，实时高亮匹配，支持多语言引擎 |  |
 
+## 📊 图表工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Mermaid](https://mermaid.js.org) | Markdown 风格图表语言，支持流程图、时序图、甘特图 | 🔓 |
+| [D2](https://d2lang.com) | 现代图表脚本语言，自动布局，生成效果优秀 | 🔓 |
+
 ## 🦁 浏览器
 
 | 工具 | 描述 | 开源 |
@@ -24,17 +31,6 @@
 | [Brave](https://brave.com/zh/) | 注重隐私的现代浏览器 | 🔓 |
 | [Zen Browser](https://zen-browser.app) | 极简界面的 Firefox 内核浏览器 | 🔓 |
 | [Mullvad Browser](https://mullvad.net/browser) | 由 Mullvad VPN 与 Tor 项目联合开发 | 🔓 |
-
-## 🎨 图像处理
-
-| 工具 | 描述 | 开源 |
-|------|------|------|
-| [ArcBrush](https://arcbrush.com/) | 节点式修图工具 |  |
-| [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
-| [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
-| [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
-| [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
-| [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
 
 ## ⬇️ 下载工具
 
@@ -60,6 +56,17 @@
 | [mpv](https://mpv.io) | 轻量高性能的命令行视频播放器，支持脚本扩展，GPU 解码，几乎兼容所有格式 | 🔓 |
 | [Screenbox](https://github.com/huynhsontung/Screenbox) | 基于 libVLC 的现代 Windows 视频播放器，界面简洁流畅，支持网络串流 | 🔓 |
 
+## 🎨 图像处理
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [ArcBrush](https://arcbrush.com/) | 节点式修图工具 |  |
+| [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
+| [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
+| [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
+| [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
+| [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
+
 ## ✏️ 设计
 
 | 工具 | 描述 | 开源 |
@@ -78,13 +85,6 @@
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
 | [WindowsCleaner](https://github.com/ElectroHeavenVN/WindowsCleaner) | 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项 | 🔓 |
 
-## 🌐 翻译工具
-
-| 工具 | 描述 | 开源 |
-|------|------|------|
-| [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
-| [沙拉翻译](https://saladict.net/) | 浏览器划词翻译，可同步至欧路词典 | 🔓 |
-
 ## 🔄 文件同步
 
 | 工具 | 描述 | 开源 |
@@ -92,11 +92,19 @@
 | [Syncthing](https://syncthing.net) | 设备间直接同步，不经过任何服务器 | 🔓 |
 | [LocalSend](https://localsend.org) | 局域网内跨设备传文件，无需联网 | 🔓 |
 
-## ⌨️ 输入法
+## 📄 办公
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [清风输入法](https://huanfeng.github.io/WindInput/) | 简洁轻量的输入法 | 🔓 |
+| [OnlyOffice](https://www.onlyoffice.com) | 全平台开源办公套件，兼容 Office 格式 | 🔓 |
+
+## 📝 笔记
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Notesnook](https://notesnook.com) | 端对端加密笔记，注重隐私 | 🔓 |
+| [Tolaria](https://tolaria.md/) | 本地优先的卡片式笔记工具 | 🔓 |
+| [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown |  |
 
 ## 📬 邮箱
 
@@ -121,20 +129,6 @@
 | [2FAS](https://2fas.com) | 跨平台 2FA，支持浏览器扩展 | 🔓 |
 | [Ente Auth](https://ente.io/auth) | 端对端加密的跨平台 2FA，支持云备份 | 🔓 |
 
-## 📄 办公
-
-| 工具 | 描述 | 开源 |
-|------|------|------|
-| [OnlyOffice](https://www.onlyoffice.com) | 全平台开源办公套件，兼容 Office 格式 | 🔓 |
-
-## 📝 笔记
-
-| 工具 | 描述 | 开源 |
-|------|------|------|
-| [Notesnook](https://notesnook.com) | 端对端加密笔记，注重隐私 | 🔓 |
-| [Tolaria](https://tolaria.md/) | 本地优先的卡片式笔记工具 | 🔓 |
-| [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown |  |
-
 ## ☁️ 加密云盘
 
 | 工具 | 描述 | 开源 |
@@ -143,12 +137,18 @@
 | [Ente Locker](https://ente.com/locker) | 端对端加密的文档保险箱，支持紧急联系人移交 | 🔓 |
 | [Filen](https://filen.io) | 德国端对端加密云盘，可同步任意文件 | 🔓 |
 
-## ⏱️ 效率工具
+## 🌐 翻译工具
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [Super Productivity](https://super-productivity.com) | 本地优先的任务管理与时间追踪，支持 Jira/GitHub/GitLab 集成 | 🔓 |
-| [ActivityWatch](https://activitywatch.net) | 自动记录应用与网页使用时间，数据完全本地，开源无云 | 🔓 |
+| [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
+| [沙拉翻译](https://saladict.net/) | 浏览器划词翻译，可同步至欧路词典 | 🔓 |
+
+## ⌨️ 输入法
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [清风输入法](https://huanfeng.github.io/WindInput/) | 简洁轻量的输入法 | 🔓 |
 
 ## 📖 学习工具
 
@@ -157,6 +157,13 @@
 | [TypeWords](https://typewords.cc) | 以打字输入为核心的英语记忆系统，FSRS 间隔复习，数据本地存储 | 🔓 |
 | [Exercism](https://exercism.org) | 编程练习平台，有真人 mentor 异步代码评审，Python 轨道质量高 | 🔓 |
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
+
+## ⏱️ 效率工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Super Productivity](https://super-productivity.com) | 本地优先的任务管理与时间追踪，支持 Jira/GitHub/GitLab 集成 | 🔓 |
+| [ActivityWatch](https://activitywatch.net) | 自动记录应用与网页使用时间，数据完全本地，开源无云 | 🔓 |
 
 ## 🤖 本地 AI
 
