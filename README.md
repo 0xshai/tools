@@ -84,6 +84,7 @@
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
 | [WindowsCleaner](https://github.com/ElectroHeavenVN/WindowsCleaner) | 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项 | 🔓 |
+| [RustDesk](https://rustdesk.com) | 开源跨平台远程桌面，支持自托管服务器，TeamViewer/AnyDesk 的隐私友好替代 | 🔓 |
 
 ## 🔄 文件同步
 
