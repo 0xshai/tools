@@ -23,6 +23,7 @@
 |------|------|------|
 | [Mermaid](https://mermaid.js.org) | Markdown 风格图表语言，支持流程图、时序图、甘特图 | 🔓 |
 | [D2](https://d2lang.com) | 现代图表脚本语言，自动布局，生成效果优秀 | 🔓 |
+| [draw.io](https://app.diagrams.net/) | 免费在线流程图与图表绘制工具，支持本地保存，可与 Google Drive/GitHub 集成 | 🔓 |
 
 ## 🦁 浏览器
 
@@ -47,7 +48,6 @@
 | [OBS Studio](https://obsproject.com) | 专业录屏与直播推流工具，跨平台开源 | 🔓 |
 | [HandBrake](https://handbrake.fr) | 开源视频转码压制工具，支持 AV1/H.265/H.264，跨平台免费 | 🔓 |
 | [MediaInfo](https://mediaarea.net/en/MediaInfo) | 视频与音频文件技术参数查看工具，编码、码率、色彩空间等信息一览无余 | 🔓 |
-| [CompressO](https://compresso.codeforreal.com/) | 跨平台视频与图片压缩工具，FFmpeg 驱动，本地运行不上传，支持批量处理 | 🔓 |
 
 ## 🎞️ 视频播放
 
