@@ -179,6 +179,7 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
+| [Open Design](https://open-design.ai/zh/) | Claude Design 的开源平替，本地优先，支持接入 Coding Agent 生成 UI 原型 | 🔓 |
 | [Agency-Agents](https://github.com/msitarzewski/agency-agents) | 200+ 专业 AI Agent 角色集合，覆盖工程、设计、营销等领域，兼容 Ollama 本地模型 | 🔓 |
 
 ---
