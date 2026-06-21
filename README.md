@@ -181,6 +181,9 @@
 |------|------|------|
 | [Open Design](https://open-design.ai/zh/) | Claude Design 的开源平替，本地优先，支持接入 Coding Agent 生成 UI 原型 | 🔓 |
 | [Agency-Agents](https://github.com/msitarzewski/agency-agents) | 200+ 专业 AI Agent 角色集合，覆盖工程、设计、营销等领域，兼容 Ollama 本地模型 | 🔓 |
+| [OpenCode](https://opencode.ai/) | 开源 AI Coding Agent，支持终端/桌面/IDE，可接入 Claude、GPT、本地模型等 75+ 提供商 | 🔓 |
+| [OpenRouter](https://openrouter.ai/) | 统一 API 接入 100+ 主流 AI 模型，支持 BYOK，方便在各 Coding 工具间切换模型源 |  |
+| [GitHub Models](https://github.com/marketplace/models) | 在 GitHub 内直接免费试用各家主流 AI 模型，无需额外注册 |  |
 
 ---
 
