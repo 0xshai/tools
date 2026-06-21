@@ -39,6 +39,8 @@
 |------|------|------|
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
 | [AB Download](https://abdownloadmanager.com) | 开源多线程下载加速，速度最高提升500% | 🔓 |
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 功能强大的开源视频下载工具，支持 YouTube、Bilibili 等数千个网站 | 🔓 |
+| [Gopeed](https://gopeed.com) | 现代开源下载管理器，支持 HTTP、BT、磁力、ed2k，全平台可用，支持扩展 | 🔓 |
 
 ## 🎬 视频处理
 
