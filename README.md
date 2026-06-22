@@ -88,6 +88,13 @@
 | [WindowsCleaner](https://github.com/ElectroHeavenVN/WindowsCleaner) | 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项 | 🔓 |
 | [RustDesk](https://rustdesk.com) | 开源跨平台远程桌面，支持自托管服务器，TeamViewer/AnyDesk 的隐私友好替代 | 🔓 |
 
+## 🏠 自托管
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
+| [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
+
 ## 🔄 文件同步
 
 | 工具 | 描述 | 开源 |
