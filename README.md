@@ -95,6 +95,12 @@
 | [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
 | [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
 
+## 🌐 网络工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Tailscale](https://tailscale.com) | 基于 WireGuard 的零配置组网工具，让自托管服务安全跨网络访问，无需暴露端口 |  |
+
 ## 🔄 文件同步
 
 | 工具 | 描述 | 开源 |
