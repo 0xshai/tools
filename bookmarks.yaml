@@ -16,6 +16,10 @@
     - name: Regex101
       url: https://regex101.com
       desc: 正则表达式在线调试，实时高亮匹配，支持多语言引擎
+    - name: MarkItDown
+      url: https://github.com/microsoft/markitdown
+      desc: 微软出品，将 PDF、Word、PPT、图片、音频等批量转换为 Markdown
+      opensource: true
 - category: 图表工具
   icon: 📊
   items:
@@ -30,6 +34,10 @@
     - name: draw.io
       url: https://app.diagrams.net/
       desc: 免费在线流程图与图表绘制工具，支持本地保存，可与 Google Drive/GitHub 集成
+      opensource: true
+    - name: Drawnix
+      url: https://drawnix.com
+      desc: 开源一体化白板，思维导图、流程图、自由画三合一，支持 Mermaid/Markdown 导入，可自托管
       opensource: true
 - category: 浏览器
   icon: 🦁
@@ -52,10 +60,6 @@
     - name: MotrixNext
       url: https://motrix-next.pages.dev/#
       desc: 全能下载管理器
-      opensource: true
-    - name: AB Download
-      url: https://abdownloadmanager.com
-      desc: 开源多线程下载加速，速度最高提升500%
       opensource: true
     - name: "yt-dlp"
       url: "https://github.com/yt-dlp/yt-dlp"
@@ -120,6 +124,10 @@
       url: https://imagemagick.org
       desc: 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面
       opensource: true
+    - name: ImageGlass
+      url: https://imageglass.org
+      desc: 轻量现代的 Windows 图片查看器，支持 RAW、WebP、AVIF 等格式
+      opensource: true
 - category: 设计
   icon: ✏️
   items:
@@ -153,9 +161,29 @@
       url: https://crystalmark.info/en/software/crystaldiskinfo/
       desc: 硬盘健康状态与 S.M.A.R.T. 监控工具
       opensource: true
-    - name: WindowsCleaner
-      url: https://github.com/ElectroHeavenVN/WindowsCleaner
-      desc: 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项
+    - name: ShareX
+      url: https://getsharex.com
+      desc: 功能最强的开源截图录屏工具，支持几十种上传目标与工作流自动化
+      opensource: true
+    - name: BleachBit
+      url: https://www.bleachbit.org
+      desc: 开源系统清理工具，清除缓存、日志、浏览器数据，支持文件粉碎
+      opensource: true
+    - name: Bulk Crap Uninstaller
+      url: https://www.bcuninstaller.com
+      desc: 批量卸载 Windows 程序，自动清理残留，速度远超系统自带卸载
+      opensource: true
+    - name: System Informer
+      url: https://systeminformer.io
+      desc: Process Hacker 继任者，进程、服务、网络连接监控与分析
+      opensource: true
+    - name: NanaZip
+      url: https://github.com/M2Team/NanaZip
+      desc: 7-Zip 的现代化 Fork，原生适配 Windows 11 右键菜单
+      opensource: true
+    - name: Rufus
+      url: https://rufus.ie
+      desc: 最快的 USB 启动盘制作工具，支持 ISO 写入与 Windows To Go
       opensource: true
     - name: RustDesk
       url: https://rustdesk.com
@@ -171,6 +199,23 @@
     - name: Rancher Desktop
       url: https://rancherdesktop.io
       desc: 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代
+      opensource: true
+- category: 网站工具
+  icon: 🌍
+  items:
+    - name: Umami
+      url: https://umami.is
+      desc: 开源隐私友好的网站统计，无 Cookie、不收集个人信息，可自托管，Google Analytics 替代
+      opensource: true
+    - name: Google Search Console
+      url: https://search.google.com/search-console
+      desc: 监控网站在 Google 搜索中的收录与关键词表现，可手动提交新页面加速索引
+    - name: itdog
+      url: https://www.itdog.cn
+      desc: 国内多节点网络测速，支持 ping、tcping、HTTP 测速、路由追踪，覆盖各省各运营商
+    - name: WebPageTest
+      url: https://www.webpagetest.org
+      desc: 全球节点网页性能分析，瀑布图、Core Web Vitals、首屏渲染等指标一览
       opensource: true
 - category: 网络工具
   icon: 🌐
