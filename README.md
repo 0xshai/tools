@@ -16,6 +16,7 @@
 | [WezTerm](https://wezfurlong.org/wezterm) | 高性能跨平台终端模拟器 | 🔓 |
 | [Lazygit](https://github.com/jesseduffield/lazygit) | 终端里的 Git 可视化工具 | 🔓 |
 | [Regex101](https://regex101.com) | 正则表达式在线调试，实时高亮匹配，支持多语言引擎 |  |
+| [MarkItDown](https://github.com/microsoft/markitdown) | 微软出品，将 PDF、Word、PPT、图片、音频等批量转换为 Markdown | 🔓 |
 
 ## 📊 图表工具
 
@@ -24,6 +25,7 @@
 | [Mermaid](https://mermaid.js.org) | Markdown 风格图表语言，支持流程图、时序图、甘特图 | 🔓 |
 | [D2](https://d2lang.com) | 现代图表脚本语言，自动布局，生成效果优秀 | 🔓 |
 | [draw.io](https://app.diagrams.net/) | 免费在线流程图与图表绘制工具，支持本地保存，可与 Google Drive/GitHub 集成 | 🔓 |
+| [Drawnix](https://drawnix.com) | 开源一体化白板，思维导图、流程图、自由画三合一，支持 Mermaid/Markdown 导入，可自托管 | 🔓 |
 
 ## 🦁 浏览器
 
@@ -38,7 +40,6 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
-| [AB Download](https://abdownloadmanager.com) | 开源多线程下载加速，速度最高提升500% | 🔓 |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 功能强大的开源视频下载工具，支持 YouTube、Bilibili 等数千个网站 | 🔓 |
 | [Gopeed](https://gopeed.com) | 现代开源下载管理器，支持 HTTP、BT、磁力、ed2k，全平台可用，支持扩展 | 🔓 |
 
@@ -68,6 +69,7 @@
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
 | [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
 | [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
+| [ImageGlass](https://imageglass.org) | 轻量现代的 Windows 图片查看器，支持 RAW、WebP、AVIF 等格式 | 🔓 |
 
 ## ✏️ 设计
 
@@ -85,7 +87,12 @@
 | [Flameshot](https://flameshot.org) | 跨平台开源截图工具，支持标注与上传 | 🔓 |
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
-| [WindowsCleaner](https://github.com/ElectroHeavenVN/WindowsCleaner) | 开源 Windows 垃圾清理工具，清除系统缓存、临时文件与无用注册表项 | 🔓 |
+| [ShareX](https://getsharex.com) | 功能最强的开源截图录屏工具，支持几十种上传目标与工作流自动化 | 🔓 |
+| [BleachBit](https://www.bleachbit.org) | 开源系统清理工具，清除缓存、日志、浏览器数据，支持文件粉碎 | 🔓 |
+| [Bulk Crap Uninstaller](https://www.bcuninstaller.com) | 批量卸载 Windows 程序，自动清理残留，速度远超系统自带卸载 | 🔓 |
+| [System Informer](https://systeminformer.io) | Process Hacker 继任者，进程、服务、网络连接监控与分析 | 🔓 |
+| [NanaZip](https://github.com/M2Team/NanaZip) | 7-Zip 的现代化 Fork，原生适配 Windows 11 右键菜单 | 🔓 |
+| [Rufus](https://rufus.ie) | 最快的 USB 启动盘制作工具，支持 ISO 写入与 Windows To Go | 🔓 |
 | [RustDesk](https://rustdesk.com) | 开源跨平台远程桌面，支持自托管服务器，TeamViewer/AnyDesk 的隐私友好替代 | 🔓 |
 
 ## 🏠 自托管
@@ -94,6 +101,15 @@
 |------|------|------|
 | [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
 | [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
+
+## 🌍 网站工具
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Umami](https://umami.is) | 开源隐私友好的网站统计，无 Cookie、不收集个人信息，可自托管，Google Analytics 替代 | 🔓 |
+| [Google Search Console](https://search.google.com/search-console) | 监控网站在 Google 搜索中的收录与关键词表现，可手动提交新页面加速索引 |  |
+| [itdog](https://www.itdog.cn) | 国内多节点网络测速，支持 ping、tcping、HTTP 测速、路由追踪，覆盖各省各运营商 |  |
+| [WebPageTest](https://www.webpagetest.org) | 全球节点网页性能分析，瀑布图、Core Web Vitals、首屏渲染等指标一览 | 🔓 |
 
 ## 🌐 网络工具
 
