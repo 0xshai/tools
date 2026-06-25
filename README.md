@@ -94,6 +94,7 @@
 | [NanaZip](https://github.com/M2Team/NanaZip) | 7-Zip 的现代化 Fork，原生适配 Windows 11 右键菜单 | 🔓 |
 | [Rufus](https://rufus.ie) | 最快的 USB 启动盘制作工具，支持 ISO 写入与 Windows To Go | 🔓 |
 | [RustDesk](https://rustdesk.com) | 开源跨平台远程桌面，支持自托管服务器，TeamViewer/AnyDesk 的隐私友好替代 | 🔓 |
+| [WinUtil](https://christitustech.github.io/winutil/) | Chris Titus 出品的 Windows 一键优化工具，安装软件、系统调整、去除臃肿，一条命令启动 | 🔓 |
 
 ## 🏠 自托管
 
@@ -192,6 +193,8 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
+| [小狼毫](https://rime.im/) | 开源跨平台输入法框架 RIME 的 Windows 客户端，支持拼音、五笔、注音等，无广告无遥测，高度可定制 | 🔓 |
+| [小企鹅输入法](https://github.com/fcitx5-android/fcitx5-android) | Fcitx5 输入法框架的 Android 移植版，支持拼音、RIME 等多种输入方案，无广告无遥测，可从 F-Droid 或 Google Play 安装 | 🔓 |
 | [清风输入法](https://huanfeng.github.io/WindInput/) | 简洁轻量的输入法 | 🔓 |
 
 ## 📖 学习工具
