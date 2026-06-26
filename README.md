@@ -170,9 +170,6 @@
 | [VeraCrypt](https://www.veracrypt.fr) | 开源磁盘加密工具，支持分区加密、虚拟加密容器及系统盘加密 | 🔓 |
 | [ExifTool](https://exiftool.org) | 查看和清除图片、视频的 EXIF 元数据，防止位置等隐私信息泄露 | 🔓 |
 | [MAT2](https://0xacab.org/jvoisin/mat2) | 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式 | 🔓 |
-| [QuickHash GUI](https://www.quickhash-gui.org) | 开源文件哈希校验工具，支持 MD5、SHA256 等算法，用于验证文件完整性 | 🔓 |
-| [blind_watermark](https://github.com/guofei9987/blind_watermark) | Python 盲水印库，给图片嵌入肉眼不可见的水印，用于版权保护与内容溯源 | 🔓 |
-| [text_blind_watermark](https://github.com/guofei9987/text_blind_watermark) | Python 文本盲水印库，给文字内容嵌入不可见水印，用于版权保护与泄露溯源 | 🔓 |
 
 ## ☁️ 加密云盘
 
