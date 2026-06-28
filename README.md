@@ -84,7 +84,6 @@
 |------|------|------|
 | [Everything](https://voidtools.com) | Windows 文件秒搜 |  |
 | [Flow Launcher](https://flowlauncher.com) | Windows 快速启动工具 | 🔓 |
-| [Flameshot](https://flameshot.org) | 跨平台开源截图工具，支持标注与上传 | 🔓 |
 | [Scoop](https://scoop.sh) | Windows 命令行包管理器 | 🔓 |
 | [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/) | 硬盘健康状态与 S.M.A.R.T. 监控工具 | 🔓 |
 | [ShareX](https://getsharex.com) | 功能最强的开源截图录屏工具，支持几十种上传目标与工作流自动化 | 🔓 |
@@ -117,6 +116,16 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [Tailscale](https://tailscale.com) | 基于 WireGuard 的零配置组网工具，让自托管服务安全跨网络访问，无需暴露端口 |  |
+
+## 🌏 免费域名
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [eu.org](https://nic.eu.org) | 运营三十年的免费二级域名，稳定可靠，审核较慢但值得等 |  |
+| [is-a.dev](https://is-a.dev) | 专为开发者提供的免费 .is-a.dev 子域名，GitHub PR 审核，流程透明 | 🔓 |
+| [DNSHE](https://dnshe.com) | 免费子域名注册服务，支持 Cloudflare 托管，需每 180 天手动续期 |  |
+| [FreeDNS](https://freedns.afraid.org) | 老牌免费 DNS 与子域名服务，运营二十余年，提供大量共享域名后缀 |  |
+| [deSEC](https://desec.io) | 德国非营利免费 DNS 托管，隐私友好，提供 dedyn.io 子域名，支持动态 DNS | 🔓 |
 
 ## 🔄 文件同步
 
