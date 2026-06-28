@@ -317,7 +317,7 @@
       opensource: true
     - name: MAT2
       url: https://github.com/jvoisin/mat2
-      desc: 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式
+      desc: 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式，需在 Linux/WSL 下使用
       opensource: true
 - category: 加密云盘
   icon: ☁️
