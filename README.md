@@ -169,7 +169,7 @@
 | [Cryptomator](https://cryptomator.org) | 开源文件加密工具，上传云盘前本地加密，服务商无法获取真实内容 | 🔓 |
 | [VeraCrypt](https://www.veracrypt.fr) | 开源磁盘加密工具，支持分区加密、虚拟加密容器及系统盘加密 | 🔓 |
 | [ExifTool](https://exiftool.org) | 查看和清除图片、视频的 EXIF 元数据，防止位置等隐私信息泄露 | 🔓 |
-| [MAT2](https://github.com/jvoisin/mat2) | 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式 | 🔓 |
+| [MAT2](https://github.com/jvoisin/mat2) | 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式，需在 Linux/WSL 下使用 | 🔓 |
 
 ## ☁️ 加密云盘
 
