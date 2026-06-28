@@ -170,7 +170,6 @@
 | [VeraCrypt](https://www.veracrypt.fr) | 开源磁盘加密工具，支持分区加密、虚拟加密容器及系统盘加密 | 🔓 |
 | [ExifTool](https://exiftool.org) | 查看和清除图片、视频的 EXIF 元数据，防止位置等隐私信息泄露 | 🔓 |
 | [MAT2](https://0xacab.org/jvoisin/mat2) | 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式 | 🔓 |
-| [Fort Firewall](https://github.com/tnodir/fort) | Windows 开源防火墙，按应用精细控制出站流量，支持限速与流量统计 | 🔓 |
 
 ## ☁️ 加密云盘
 
