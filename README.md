@@ -69,7 +69,7 @@
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
 | [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
 | [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
-| [ImageGlass](https://imageglass.org) | 轻量现代的 Windows 图片查看器，支持 RAW、WebP、AVIF 等格式 | 🔓 |
+| [PicView](https://picview.org) | 快速、轻量的开源看图工具，支持 RAW、AVIF、HEIC 等格式，可直接删除元数据 | 🔓 |
 
 ## ✏️ 设计
 
