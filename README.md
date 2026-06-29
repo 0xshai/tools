@@ -48,6 +48,7 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [Komi Store](https://github.com/kurikomi-labs/komi-store) | 开源跨平台应用商店，聚合 GitHub/Codeberg 上的开发者发布，支持一键安装与自动更新 | 🔓 |
+| [F-Droid](https://f-droid.org) | 完全开源的 Android 应用商店，所有应用均可自由获取，无追踪无广告 | 🔓 |
 
 ## 🎬 视频处理
 
