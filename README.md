@@ -101,11 +101,13 @@
 |------|------|------|
 | [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
 | [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
+| [Supabase](https://supabase.com) | 开源 Firebase 替代，提供 PostgreSQL 数据库、用户认证、文件存储和 API，支持自托管 | 🔓 |
 
 ## 🌍 网站工具
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
+| [Vercel](https://vercel.com) | 前端应用部署平台，连接 GitHub 自动构建上线，Next.js 原生支持，免费额度够个人项目 |  |
 | [Umami](https://umami.is) | 开源隐私友好的网站统计，无 Cookie、不收集个人信息，可自托管，Google Analytics 替代 | 🔓 |
 | [Google Search Console](https://search.google.com/search-console) | 监控网站在 Google 搜索中的收录与关键词表现，可手动提交新页面加速索引 |  |
 | [itdog](https://www.itdog.cn) | 国内多节点网络测速，支持 ping、tcping、HTTP 测速、路由追踪，覆盖各省各运营商 |  |
@@ -126,6 +128,8 @@
 | [DNSHE](https://dnshe.com) | 免费子域名注册服务，支持 Cloudflare 托管，需每 180 天手动续期 |  |
 | [FreeDNS](https://freedns.afraid.org) | 老牌免费 DNS 与子域名服务，运营二十余年，提供大量共享域名后缀 |  |
 | [deSEC](https://desec.io) | 德国非营利免费 DNS 托管，隐私友好，提供 dedyn.io 子域名，支持动态 DNS | 🔓 |
+| [DigitalPlat](https://domain.digitalplat.org) | 非营利免费域名平台，提供 dpdns.org、us.kg 等多个后缀，开源，规模大且可靠 | 🔓 |
+| [Stackryze](https://domain.stackryze.com) | 面向开发者的免费子域名服务，提供 indevs.in 等后缀，开源透明，域名有效期一年需手动续期 | 🔓 |
 
 ## 🔄 文件同步
 
