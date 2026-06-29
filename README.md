@@ -43,6 +43,12 @@
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 功能强大的开源视频下载工具，支持 YouTube、Bilibili 等数千个网站 | 🔓 |
 | [Gopeed](https://gopeed.com) | 现代开源下载管理器，支持 HTTP、BT、磁力、ed2k，全平台可用，支持扩展 | 🔓 |
 
+## 🛍️ 应用商店
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [Komi Store](https://github.com/kurikomi-labs/komi-store) | 开源跨平台应用商店，聚合 GitHub/Codeberg 上的开发者发布，支持一键安装与自动更新 | 🔓 |
+
 ## 🎬 视频处理
 
 | 工具 | 描述 | 开源 |
