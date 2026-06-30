@@ -17,7 +17,6 @@
 | [Lazygit](https://github.com/jesseduffield/lazygit) | 终端里的 Git 可视化工具 | 🔓 |
 | [Regex101](https://regex101.com) | 正则表达式在线调试，实时高亮匹配，支持多语言引擎 |  |
 | [MarkItDown](https://github.com/microsoft/markitdown) | 微软出品，将 PDF、Word、PPT、图片、音频等批量转换为 Markdown | 🔓 |
-| [fuck-u-code](https://github.com/Done-0/fuck-u-code) | 屎山代码检测器，七维度打分并生成毒舌点评报告，支持 14 种语言 | 🔓 |
 
 ## 📊 图表工具
 
@@ -43,13 +42,6 @@
 | [MotrixNext](https://motrix-next.pages.dev/#) | 全能下载管理器 | 🔓 |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | 功能强大的开源视频下载工具，支持 YouTube、Bilibili 等数千个网站 | 🔓 |
 | [Gopeed](https://gopeed.com) | 现代开源下载管理器，支持 HTTP、BT、磁力、ed2k，全平台可用，支持扩展 | 🔓 |
-
-## 🛍️ 应用商店
-
-| 工具 | 描述 | 开源 |
-|------|------|------|
-| [Komi Store](https://github.com/kurikomi-labs/komi-store) | 开源跨平台应用商店，聚合 GitHub/Codeberg 上的开发者发布，支持一键安装与自动更新 | 🔓 |
-| [F-Droid](https://f-droid.org) | 完全开源的 Android 应用商店，所有应用均可自由获取，无追踪无广告 | 🔓 |
 
 ## 🎬 视频处理
 
@@ -109,16 +101,11 @@
 |------|------|------|
 | [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
 | [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
-| [Supabase](https://supabase.com) | 开源 Firebase 替代，提供 PostgreSQL 数据库、用户认证、文件存储和 API，支持自托管 | 🔓 |
-| [Portainer](https://www.portainer.io) | Docker/Kubernetes 容器可视化管理面板，图形界面操作镜像、网络、容器，社区版免费 | 🔓 |
-| [Homepage](https://gethomepage.dev) | 高度可定制的自托管服务起始页，聚合所有自部署服务入口，支持状态监控与小组件 | 🔓 |
-| [n8n](https://n8n.io) | 开源工作流自动化平台，可视化拖拽连接各种 API 与服务，自托管后数据完全自主可控 | 🔓 |
 
 ## 🌍 网站工具
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [Vercel](https://vercel.com) | 前端应用部署平台，连接 GitHub 自动构建上线，Next.js 原生支持，免费额度够个人项目 |  |
 | [Umami](https://umami.is) | 开源隐私友好的网站统计，无 Cookie、不收集个人信息，可自托管，Google Analytics 替代 | 🔓 |
 | [Google Search Console](https://search.google.com/search-console) | 监控网站在 Google 搜索中的收录与关键词表现，可手动提交新页面加速索引 |  |
 | [itdog](https://www.itdog.cn) | 国内多节点网络测速，支持 ping、tcping、HTTP 测速、路由追踪，覆盖各省各运营商 |  |
@@ -138,9 +125,8 @@
 | [is-a.dev](https://is-a.dev) | 专为开发者提供的免费 .is-a.dev 子域名，GitHub PR 审核，流程透明 | 🔓 |
 | [DNSHE](https://dnshe.com) | 免费子域名注册服务，支持 Cloudflare 托管，需每 180 天手动续期 |  |
 | [FreeDNS](https://freedns.afraid.org) | 老牌免费 DNS 与子域名服务，运营二十余年，提供大量共享域名后缀 |  |
+| [KataBump](https://katabump.com) | 提供免费永久域名（无需续期），同时支持 Discord 机器人免费托管 |  |
 | [deSEC](https://desec.io) | 德国非营利免费 DNS 托管，隐私友好，提供 dedyn.io 子域名，支持动态 DNS | 🔓 |
-| [DigitalPlat](https://domain.digitalplat.org) | 非营利免费域名平台，提供 dpdns.org、us.kg 等多个后缀，开源，规模大且可靠 | 🔓 |
-| [Stackryze](https://domain.stackryze.com) | 面向开发者的免费子域名服务，提供 indevs.in 等后缀，开源透明，域名有效期一年需手动续期 | 🔓 |
 
 ## 🔄 文件同步
 
@@ -154,8 +140,6 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [OnlyOffice](https://www.onlyoffice.com) | 全平台开源办公套件，兼容 Office 格式 | 🔓 |
-| [Stirling-PDF](https://www.stirlingpdf.com) | 自托管 PDF 工具集，合并、分割、压缩、转换、OCR 全套操作，文件不离开自己服务器 | 🔓 |
-| [Reactive Resume](https://rxresu.me) | 开源简历生成器，多模板实时预览，数据完全自托管，无需把个人信息交给商业平台 | 🔓 |
 
 ## 📝 笔记
 
@@ -253,7 +237,6 @@
 | [OpenCode](https://opencode.ai/) | 开源 AI Coding Agent，支持终端/桌面/IDE，可接入 Claude、GPT、本地模型等 75+ 提供商 | 🔓 |
 | [OpenRouter](https://openrouter.ai/) | 统一 API 接入 100+ 主流 AI 模型，支持 BYOK，方便在各 Coding 工具间切换模型源 |  |
 | [GitHub Models](https://github.com/marketplace/models) | 在 GitHub 内直接免费试用各家主流 AI 模型，无需额外注册 |  |
-| [Karpathy 编程准则](https://github.com/multica-ai/andrej-karpathy-skills) | 单文件 CLAUDE.md 配置，源自 Karpathy 对 LLM 编程通病的总结，约束 AI 减少过度工程化与越界改动 | 🔓 |
 
 ---
 
