@@ -109,6 +109,9 @@
 | [Immich](https://immich.app) | 开源自托管相册，AI 识别人脸场景，Google Photos 替代 | 🔓 |
 | [Rancher Desktop](https://rancherdesktop.io) | 开源容器管理桌面工具，内置 Docker 引擎，Docker Desktop 免费替代 | 🔓 |
 | [Supabase](https://supabase.com) | 开源 Firebase 替代，提供 PostgreSQL 数据库、用户认证、文件存储和 API，支持自托管 | 🔓 |
+| [Portainer](https://www.portainer.io) | Docker/Kubernetes 容器可视化管理面板，图形界面操作镜像、网络、容器，社区版免费 | 🔓 |
+| [Homepage](https://gethomepage.dev) | 高度可定制的自托管服务起始页，聚合所有自部署服务入口，支持状态监控与小组件 | 🔓 |
+| [n8n](https://n8n.io) | 开源工作流自动化平台，可视化拖拽连接各种 API 与服务，自托管后数据完全自主可控 | 🔓 |
 
 ## 🌍 网站工具
 
@@ -150,6 +153,8 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [OnlyOffice](https://www.onlyoffice.com) | 全平台开源办公套件，兼容 Office 格式 | 🔓 |
+| [Stirling-PDF](https://www.stirlingpdf.com) | 自托管 PDF 工具集，合并、分割、压缩、转换、OCR 全套操作，文件不离开自己服务器 | 🔓 |
+| [Reactive Resume](https://rxresu.me) | 开源简历生成器，多模板实时预览，数据完全自托管，无需把个人信息交给商业平台 | 🔓 |
 
 ## 📝 笔记
 
