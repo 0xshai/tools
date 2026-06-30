@@ -253,6 +253,7 @@
 | [OpenCode](https://opencode.ai/) | 开源 AI Coding Agent，支持终端/桌面/IDE，可接入 Claude、GPT、本地模型等 75+ 提供商 | 🔓 |
 | [OpenRouter](https://openrouter.ai/) | 统一 API 接入 100+ 主流 AI 模型，支持 BYOK，方便在各 Coding 工具间切换模型源 |  |
 | [GitHub Models](https://github.com/marketplace/models) | 在 GitHub 内直接免费试用各家主流 AI 模型，无需额外注册 |  |
+| [Karpathy 编程准则](https://github.com/multica-ai/andrej-karpathy-skills) | 单文件 CLAUDE.md 配置，源自 Karpathy 对 LLM 编程通病的总结，约束 AI 减少过度工程化与越界改动 | 🔓 |
 
 ---
 
