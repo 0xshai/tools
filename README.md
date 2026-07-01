@@ -121,7 +121,6 @@
 | [Vercel](https://vercel.com) | 前端应用部署平台，连接 GitHub 自动构建上线，Next.js 原生支持，免费额度够个人项目 |  |
 | [Umami](https://umami.is) | 开源隐私友好的网站统计，无 Cookie、不收集个人信息，可自托管，Google Analytics 替代 | 🔓 |
 | [Google Search Console](https://search.google.com/search-console) | 监控网站在 Google 搜索中的收录与关键词表现，可手动提交新页面加速索引 |  |
-| [itdog](https://www.itdog.cn) | 国内多节点网络测速，支持 ping、tcping、HTTP 测速、路由追踪，覆盖各省各运营商 |  |
 | [WebPageTest](https://www.webpagetest.org) | 全球节点网页性能分析，瀑布图、Core Web Vitals、首屏渲染等指标一览 | 🔓 |
 
 ## 🌐 网络工具
@@ -129,6 +128,8 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [Tailscale](https://tailscale.com) | 基于 WireGuard 的零配置组网工具，让自托管服务安全跨网络访问，无需暴露端口 |  |
+| [ITDOG](https://www.itdog.cn) | 多地 Ping/TCPing/HTTP 测速与路由追踪，覆盖大陆各省运营商节点，可辅助判断网站连通性 |  |
+| [DNSChecker](https://dnschecker.org/) | 全球多节点 DNS 解析传播检测，换域名或改 DNS 记录后查各地解析是否已生效 |  |
 
 ## 🌏 免费域名
 
@@ -173,6 +174,22 @@
 | [Outlook](https://outlook.com) | 微软邮箱，功能全面 |  |
 | [Proton Mail](https://proton.me) | 端对端加密，瑞士服务器 | 🔓 |
 | [Tuta Mail](https://tuta.com) | 德国团队，连元数据都加密 | 🔓 |
+
+## 📮 临时邮箱
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [10 Minute Mail](https://10minutemail.com/) | 10分钟自动销毁的一次性邮箱，最简单直接的用完即扔 |  |
+| [Guerrilla Mail](https://www.guerrillamail.com/) | 老牌临时邮箱，唯一支持匿名发信，保留1小时 |  |
+| [Temp-Mail](https://temp-mail.org/en/) | 知名度最高的临时邮箱，免费版保留24小时 |  |
+| [mail.tm](https://mail.tm) | 界面现代的临时邮箱，提供开发者 API，保留时间比同类更长 |  |
+
+## 🎭 邮箱别名
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [addy.io](https://addy.io) | 开源邮箱别名转发，为每个网站生成独立别名，可自托管，方便溯源信息泄露源头 | 🔓 |
+| [SimpleLogin](https://simplelogin.io/) | 开源邮箱别名转发，已被 Proton 收购，与 Proton 生态深度整合 | 🔓 |
 
 ## 🔐 密码管理
 
