@@ -27,6 +27,7 @@
 | [D2](https://d2lang.com) | 现代图表脚本语言，自动布局，生成效果优秀 | 🔓 |
 | [draw.io](https://app.diagrams.net/) | 免费在线流程图与图表绘制工具，支持本地保存，可与 Google Drive/GitHub 集成 | 🔓 |
 | [Drawnix](https://drawnix.com) | 开源一体化白板，思维导图、流程图、自由画三合一，支持 Mermaid/Markdown 导入，可自托管 | 🔓 |
+| [Archify](https://tt-a1i.github.io/archify/) | Claude/Codex CLI/opencode 的 Agent Skill，用自然语言描述系统结构自动生成架构图/工作流/时序图/数据流图/状态机图 | 🔓 |
 
 ## 🦁 浏览器
 
