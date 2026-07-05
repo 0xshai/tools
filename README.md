@@ -79,6 +79,7 @@
 | [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
 | [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
 | [PicView](https://picview.org) | 快速、轻量的开源看图工具，支持 RAW、AVIF、HEIC 等格式，可直接删除元数据 | 🔓 |
+| [Lap](https://github.com/julyx10/lap) | 本地优先的开源相册管理工具，基于 Tauri + Rust，AI 搜索/人脸聚类/智能标签均在本地运行，无需上传云端，支持 60+ 图片/RAW/视频格式，适合十万级大库 | 🔓 |
 
 ## ✏️ 设计
 
@@ -144,6 +145,7 @@
 | [DigitalPlat](https://domain.digitalplat.org) | 非营利免费域名平台，提供 dpdns.org、us.kg 等多个后缀，开源，规模大且可靠 | 🔓 |
 | [Stackryze](https://domain.stackryze.com) | 面向开发者的免费子域名服务，提供 indevs.in 等后缀，开源透明，域名有效期一年需手动续期 | 🔓 |
 | [KataBump](https://katabump.com) | 提供免费永久域名（无需续期），同时支持 Discord 机器人免费托管 |  |
+| [EE.CD](https://eecd.cc) | 免费二级域名分发平台，同时管理 ee.cd、my.uy、vps.cd、love.gd、g201.com、ad.sd、wxyz.cc，Google 账号验证注册，教育邮箱可领免费额度或续期，过期30天后回收 |  |
 
 ## 🔄 文件同步
 
@@ -273,6 +275,7 @@
 | [OpenRouter](https://openrouter.ai/) | 统一 API 接入 100+ 主流 AI 模型，支持 BYOK，方便在各 Coding 工具间切换模型源 |  |
 | [GitHub Models](https://github.com/marketplace/models) | 在 GitHub 内直接免费试用各家主流 AI 模型，无需额外注册 |  |
 | [Karpathy 编程准则](https://github.com/multica-ai/andrej-karpathy-skills) | 单文件 CLAUDE.md 配置，源自 Karpathy 对 LLM 编程通病的总结，约束 AI 减少过度工程化与越界改动 | 🔓 |
+| [text-to-lottie](https://github.com/diffusionstudio/lottie) | 开源 skill，配合 Claude Code / Codex 等 AI agent 用自然语言生成生产可用的 Lottie 动画 JSON，内置播放器实时预览编辑 | 🔓 |
 
 ---
 
