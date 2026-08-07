@@ -198,7 +198,6 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [Bitwarden](https://bitwarden.com) | 最好的开源密码管理器，可自托管 | 🔓 |
-| [Keyguard](https://github.com/AChep/keyguard-app) | Bitwarden 第三方客户端，界面更现代 | 🔓 |
 
 ## 🛡️ 双因素认证
 
