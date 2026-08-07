@@ -137,7 +137,6 @@
 
 | 工具 | 描述 | 开源 |
 |------|------|------|
-| [eu.org](https://nic.eu.org) | 运营三十年的免费二级域名，稳定可靠，审核较慢但值得等 |  |
 | [is-a.dev](https://is-a.dev) | 专为开发者提供的免费 .is-a.dev 子域名，GitHub PR 审核，流程透明 | 🔓 |
 | [DNSHE](https://dnshe.com) | 免费子域名注册服务，支持 Cloudflare 托管，需每 180 天手动续期 |  |
 | [FreeDNS](https://freedns.afraid.org) | 老牌免费 DNS 与子域名服务，运营二十余年，提供大量共享域名后缀 |  |
