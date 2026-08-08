@@ -230,6 +230,8 @@
 |------|------|------|
 | [欧路词典](https://www.eudic.net) | 专业英汉词典，支持本地词库 |  |
 | [沙拉翻译](https://saladict.net/) | 浏览器划词翻译，可同步至欧路词典 | 🔓 |
+| [Papago](https://papago.naver.com) | Naver 出品的翻译工具，中日韩等亚洲语言翻译质量突出，支持文本/语音/图片/对话翻译及离线翻译 |  |
+| [VoiceTra](https://voicetra.nict.go.jp) | 日本 NICT 出品的语音互译工具，支持 30+ 语言实时语音对话翻译，仅限手机 App，完全免费 |  |
 
 ## ⌨️ 输入法
 
