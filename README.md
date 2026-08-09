@@ -216,6 +216,7 @@
 | [VeraCrypt](https://www.veracrypt.fr) | 开源磁盘加密工具，支持分区加密、虚拟加密容器及系统盘加密 | 🔓 |
 | [ExifTool](https://exiftool.org) | 查看和清除图片、视频的 EXIF 元数据，防止位置等隐私信息泄露 | 🔓 |
 | [MAT2](https://github.com/jvoisin/mat2) | 批量清除文件元数据，支持 PDF、Office、图片、音频等多种格式，需在 Linux/WSL 下使用 | 🔓 |
+| [Sherlock](https://github.com/sherlock-project/sherlock) | 开源 OSINT 用户名查询工具，可在 400+ 网站检查某用户名是否存在账号，命令行运行 | 🔓 |
 
 ## ☁️ 加密云盘
 
