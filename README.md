@@ -132,6 +132,7 @@
 | [Tailscale](https://tailscale.com) | 基于 WireGuard 的零配置组网工具，让自托管服务安全跨网络访问，无需暴露端口 |  |
 | [ITDOG](https://www.itdog.cn) | 多地 Ping/TCPing/HTTP 测速与路由追踪，覆盖大陆各省运营商节点，可辅助判断网站连通性 |  |
 | [DNSChecker](https://dnschecker.org/) | 全球多节点 DNS 解析传播检测，换域名或改 DNS 记录后查各地解析是否已生效 |  |
+| [ip.cx](https://ip.cx/) | IP 归属地与威胁情报查询工具，可查 ISP、ASN、数据中心/代理识别、威胁记录等，免费无需注册 |  |
 
 ## 🌏 免费域名
 
