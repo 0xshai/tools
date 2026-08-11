@@ -133,6 +133,7 @@
 | [ITDOG](https://www.itdog.cn) | 多地 Ping/TCPing/HTTP 测速与路由追踪，覆盖大陆各省运营商节点，可辅助判断网站连通性 |  |
 | [DNSChecker](https://dnschecker.org/) | 全球多节点 DNS 解析传播检测，换域名或改 DNS 记录后查各地解析是否已生效 |  |
 | [ip.cx](https://ip.cx/) | IP 归属地与威胁情报查询工具，可查 ISP、ASN、数据中心/代理识别、威胁记录等，免费无需注册 |  |
+| [Wireshark](https://www.wireshark.org/) | 网络协议分析事实标准，跨平台抓包与深度协议解析，过滤语法强大，排障/安全分析/学习协议均适用 | 🔓 |
 
 ## 🌏 免费域名
 
