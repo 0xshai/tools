@@ -249,6 +249,7 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [TypeWords](https://typewords.cc) | 以打字输入为核心的英语记忆系统，FSRS 间隔复习，数据本地存储 | 🔓 |
+| [Enjoy](https://github.com/ZuodaoTech/everyone-can-use-english) | 李笑来《人人都能用英语》官方仓库，同时包含衍生出的 AI 外语学习助教 Enjoy（精听跟读、词典、语料训练）及"一千小时"训练方法论 | 🔓 |
 | [Exercism](https://exercism.org) | 编程练习平台，有真人 mentor 异步代码评审，Python 轨道质量高 | 🔓 |
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
 
