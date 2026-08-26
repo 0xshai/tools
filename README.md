@@ -105,6 +105,13 @@
 | [RustDesk](https://rustdesk.com) | 开源跨平台远程桌面，支持自托管服务器，TeamViewer/AnyDesk 的隐私友好替代 | 🔓 |
 | [WinUtil](https://christitustech.github.io/winutil/) | Chris Titus 出品的 Windows 一键优化工具，安装软件、系统调整、去除臃肿，一条命令启动 | 🔓 |
 
+## 🚑 数据恢复
+
+| 工具 | 描述 | 开源 |
+|------|------|------|
+| [TestDisk & PhotoRec](https://www.cgsecurity.org/wiki/TestDisk) | 开源数据恢复工具组合，TestDisk 修复分区表与引导扇区，PhotoRec 从损坏或格式化的存储设备中找回文件 | 🔓 |
+| [GNU ddrescue](https://www.gnu.org/software/ddrescue/) | 块级磁盘镜像与恢复工具，专为故障硬盘设计，优先读取健康区域并跳过坏块，最大化找回数据 | 🔓 |
+
 ## 🏠 自托管
 
 | 工具 | 描述 | 开源 |
@@ -170,6 +177,7 @@
 | [Notesnook](https://notesnook.com) | 端对端加密笔记，注重隐私 | 🔓 |
 | [Tolaria](https://tolaria.md/) | 本地优先的卡片式笔记工具 | 🔓 |
 | [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown |  |
+| [SoloMD](https://solomd.app) | 开源轻量 Markdown 编辑器，本地优先零遥测，内置 MCP 服务器可直接对接 Claude/Cursor，支持 PDF/DOCX/EPUB 导出 | 🔓 |
 
 ## 📬 邮箱
 
