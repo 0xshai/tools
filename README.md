@@ -276,6 +276,7 @@
 | [Jan](https://jan.ai) | 本地优先的 AI 客户端，内置聊天界面，可作为 Ollama 前端 | 🔓 |
 | [Ensu](https://ente.com/blog/ensu) | 本地运行的 AI 聊天，模型不联网，对话不离开设备 | 🔓 |
 | [Voicebox](https://voicebox.sh) | 开源本地 AI 语音工作室，声音克隆、全局听写、TTS 生成一体，数据不离本机，支持 MCP 接入 Claude | 🔓 |
+| [Modly](https://modly3d.app/) | 本地运行的图片转3D模型工具，支持Hunyuan3D、TripoSG等开源模型 | 🔓 |
 
 ## 🧠 AI 工具
 
