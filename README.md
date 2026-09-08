@@ -60,6 +60,7 @@
 | [OBS Studio](https://obsproject.com) | 专业录屏与直播推流工具，跨平台开源 | 🔓 |
 | [HandBrake](https://handbrake.fr) | 开源视频转码压制工具，支持 AV1/H.265/H.264，跨平台免费 | 🔓 |
 | [MediaInfo](https://mediaarea.net/en/MediaInfo) | 视频与音频文件技术参数查看工具，编码、码率、色彩空间等信息一览无余 | 🔓 |
+| [Gyroflow](https://gyroflow.xyz) | 开源陀螺仪防抖工具，为动作相机视频提供云台级稳定处理 | 🔓 |
 
 ## 🎞️ 视频播放
 
