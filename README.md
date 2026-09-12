@@ -179,6 +179,7 @@
 | [Tolaria](https://tolaria.md/) | 本地优先的卡片式笔记工具 | 🔓 |
 | [Obsidian](https://obsidian.md) | 本地优先的知识库与笔记工具，支持 Markdown |  |
 | [SoloMD](https://solomd.app) | 开源轻量 Markdown 编辑器，本地优先零遥测，内置 MCP 服务器可直接对接 Claude/Cursor，支持 PDF/DOCX/EPUB 导出 | 🔓 |
+| [Standard Notes](https://app.standardnotes.com) | 端到端加密笔记应用，代码开源并经独立安全审计，2024年被Proton收购 | 🔓 |
 
 ## 📬 邮箱
 
