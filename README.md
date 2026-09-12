@@ -261,6 +261,8 @@
 | [Enjoy](https://github.com/ZuodaoTech/everyone-can-use-english) | 李笑来《人人都能用英语》官方仓库，同时包含衍生出的 AI 外语学习助教 Enjoy（精听跟读、词典、语料训练）及"一千小时"训练方法论 | 🔓 |
 | [Exercism](https://exercism.org) | 编程练习平台，有真人 mentor 异步代码评审，Python 轨道质量高 | 🔓 |
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
+| [50Languages](https://50languages.com) | 免费多语言学习网站，100课音频+文本，覆盖56种语言的基础词汇与短句 |  |
+| [Musicca](https://www.musicca.com) | 互动式乐理学习工具，提供视奏、节奏、和弦等免费练习 |  |
 
 ## ⏱️ 效率工具
 
