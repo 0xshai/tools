@@ -88,6 +88,7 @@
 |------|------|------|
 | [Penpot](https://penpot.app) | 开源 Figma 替代，可自托管 | 🔓 |
 | [Excalidraw](https://excalidraw.com) | 手绘风格白板工具 | 🔓 |
+| [ray.so](https://ray.so/) | Vercel团队出品的代码截图生成工具，支持多主题渐变背景，可直接导出PNG/SVG | 🔓 |
 
 ## ⚙️ 系统工具
 
