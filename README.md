@@ -18,6 +18,7 @@
 | [Regex101](https://regex101.com) | 正则表达式在线调试，实时高亮匹配，支持多语言引擎 |  |
 | [MarkItDown](https://github.com/microsoft/markitdown) | 微软出品，将 PDF、Word、PPT、图片、音频等批量转换为 Markdown | 🔓 |
 | [fuck-u-code](https://github.com/Done-0/fuck-u-code) | 屎山代码检测器，七维度打分并生成毒舌点评报告，支持 14 种语言 | 🔓 |
+| [Maple Mono](https://font.subf.dev/) | 圆角连字编程字体，支持中英文 2:1 完美对齐（CN 版），Nerd Font 图标齐全 | 🔓 |
 
 ## 📊 图表工具
 
