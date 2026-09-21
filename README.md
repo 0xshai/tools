@@ -284,6 +284,7 @@
 | [Ensu](https://ente.com/blog/ensu) | 本地运行的 AI 聊天，模型不联网，对话不离开设备 | 🔓 |
 | [Voicebox](https://voicebox.sh) | 开源本地 AI 语音工作室，声音克隆、全局听写、TTS 生成一体，数据不离本机，支持 MCP 接入 Claude | 🔓 |
 | [Modly](https://modly3d.app/) | 本地运行的图片转3D模型工具，支持Hunyuan3D、TripoSG等开源模型 | 🔓 |
+| [FaceFusion](https://github.com/facefusion/facefusion) | 本地运行的开源换脸与人脸增强工具，支持图片、视频和实时摄像头 | 🔓 |
 
 ## 🧠 AI 工具
 
