@@ -267,6 +267,7 @@
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
 | [50Languages](https://50languages.com) | 免费多语言学习网站，100课音频+文本，覆盖56种语言的基础词汇与短句 |  |
 | [AMEPOnline](https://ameponline.homeaffairs.gov.au/) | 澳大利亚政府免费英语学习平台，五个等级听说读写课程，任何人可用不限移民身份 |  |
+| [Standard Ebook](https://standardebooks.org/) | 公共领域英文小说库，约1500本志愿者精校排版电子书，epub/azw3/kepub格式，排版质量高 | 🔓 |
 | [Musicca](https://www.musicca.com) | 互动式乐理学习工具，提供视奏、节奏、和弦等免费练习 |  |
 
 ## ⏱️ 效率工具
