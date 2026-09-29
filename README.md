@@ -79,6 +79,7 @@
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
 | [Squoosh](https://squoosh.app) | Google 出品的在线图片压缩工具，实时对比画质与体积，本地处理不上传 | 🔓 |
+| [FileOnTap](https://fileontap.com/) | 浏览器本地 **File Converter**：HEIC↔JPG/PNG/WebP、压缩预览、图片↔PDF；文件不离开设备，无需账号 |  |
 | [ImageMagick](https://imagemagick.org) | 命令行图片处理工具，批量转换格式、调整尺寸、压缩质量，功能全面 | 🔓 |
 | [PicView](https://picview.org) | 快速、轻量的开源看图工具，支持 RAW、AVIF、HEIC 等格式，可直接删除元数据 | 🔓 |
 | [Lap](https://github.com/julyx10/lap) | 本地优先的开源相册管理工具，基于 Tauri + Rust，AI 搜索/人脸聚类/智能标签均在本地运行，无需上传云端，支持 60+ 图片/RAW/视频格式，适合十万级大库 | 🔓 |
