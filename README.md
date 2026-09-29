@@ -172,6 +172,9 @@
 | [OnlyOffice](https://www.onlyoffice.com) | 全平台开源办公套件，兼容 Office 格式 | 🔓 |
 | [Stirling-PDF](https://www.stirlingpdf.com) | 自托管 PDF 工具集，合并、分割、压缩、转换、OCR 全套操作，文件不离开自己服务器 | 🔓 |
 | [Reactive Resume](https://rxresu.me) | 开源简历生成器，多模板实时预览，数据完全自托管，无需把个人信息交给商业平台 | 🔓 |
+| [Readest](https://readest.com/) | 现代开源电子书阅读器，支持 EPUB/MOBI/PDF 等格式，高亮批注、翻译、TTS 朗读，全平台可用 | 🔓 |
+| [SumatraPDF](https://www.sumatrapdfreader.org/) | Windows 上轻量极速的阅读器，支持 PDF/EPUB/MOBI/CBZ 等，启动快、占用小，可免安装使用 | 🔓 |
+| [KOReader](https://koreader.rocks/) | 功能强大的开源文档阅读器，支持 EPUB/PDF/DJVU 等，Android 与墨水屏设备适用，可自建进度同步 | 🔓 |
 
 ## 📝 笔记
 
@@ -267,7 +270,7 @@
 | [Codewars](https://www.codewars.com) | 编程闯关练习，题目有趣，适合练语言本身而非刷算法 |  |
 | [50Languages](https://50languages.com) | 免费多语言学习网站，100课音频+文本，覆盖56种语言的基础词汇与短句 |  |
 | [AMEPOnline](https://ameponline.homeaffairs.gov.au/) | 澳大利亚政府免费英语学习平台，五个等级听说读写课程，任何人可用不限移民身份 |  |
-| [Standard Ebook](https://standardebooks.org/) | 公共领域英文小说库，约1500本志愿者精校排版电子书，epub/azw3/kepub格式，排版质量高 | 🔓 |
+| [Standard Ebooks](https://standardebooks.org/) | 公共领域英文小说库，约1500本志愿者精校排版电子书，epub/azw3/kepub格式，排版质量高 | 🔓 |
 | [Musicca](https://www.musicca.com) | 互动式乐理学习工具，提供视奏、节奏、和弦等免费练习 |  |
 
 ## ⏱️ 效率工具
