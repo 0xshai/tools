@@ -631,3 +631,7 @@
       url: https://github.com/diffusionstudio/lottie
       desc: 开源 skill，配合 Claude Code / Codex 等 AI agent 用自然语言生成生产可用的 Lottie 动画 JSON，内置播放器实时预览编辑
       opensource: true
+    - name: Hyperconsciousness
+      url: https://github.com/louis030195/hyperconsciousness
+      desc: 开发者 Alpha 阶段的加密、仅追加式智能体记忆存储，提供 Rust CLI 和 MCP 服务器，通过限定范围且有时效的授权控制访问
+      opensource: true
