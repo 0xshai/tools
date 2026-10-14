@@ -303,6 +303,7 @@
 | [GitHub Models](https://github.com/marketplace/models) | 在 GitHub 内直接免费试用各家主流 AI 模型，无需额外注册 |  |
 | [Karpathy 编程准则](https://github.com/multica-ai/andrej-karpathy-skills) | 单文件 CLAUDE.md 配置，源自 Karpathy 对 LLM 编程通病的总结，约束 AI 减少过度工程化与越界改动 | 🔓 |
 | [text-to-lottie](https://github.com/diffusionstudio/lottie) | 开源 skill，配合 Claude Code / Codex 等 AI agent 用自然语言生成生产可用的 Lottie 动画 JSON，内置播放器实时预览编辑 | 🔓 |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | 开发者 Alpha 阶段的加密、仅追加式智能体记忆存储，提供 Rust CLI 和 MCP 服务器，通过限定范围且有时效的授权控制访问 | 🔓 |
 
 ---
 
