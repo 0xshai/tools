@@ -513,9 +513,9 @@
     - name: VoiceTra
       url: https://voicetra.nict.go.jp
       desc: 日本 NICT 出品的语音互译工具，支持 30+ 语言实时语音对话翻译，仅限手机 App，完全免费
-    - name: Translumo
-      url: https://github.com/ramjke/Translumo
-      desc: 开源实时屏幕翻译工具，框选区域 OCR 后翻译，适合游戏和视频内嵌字幕，仅限 Windows
+    - name: STranslate
+      url: https://github.com/STranslate/STranslate
+      desc: 开源 Windows 翻译 + OCR 工具，划词、截图、剪贴板翻译，支持多翻译源并发对比和插件扩展，OCR 可离线
       opensource: true
 - category: 输入法
   icon: ⌨️
