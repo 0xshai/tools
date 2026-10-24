@@ -251,7 +251,7 @@
 | [沙拉翻译](https://saladict.net/) | 浏览器划词翻译，可同步至欧路词典 | 🔓 |
 | [Papago](https://papago.naver.com) | Naver 出品的翻译工具，中日韩等亚洲语言翻译质量突出，支持文本/语音/图片/对话翻译及离线翻译 |  |
 | [VoiceTra](https://voicetra.nict.go.jp) | 日本 NICT 出品的语音互译工具，支持 30+ 语言实时语音对话翻译，仅限手机 App，完全免费 |  |
-| [Translumo](https://github.com/ramjke/Translumo) | 开源实时屏幕翻译工具，框选区域 OCR 后翻译，适合游戏和视频内嵌字幕，仅限 Windows | 🔓 |
+| [STranslate](https://github.com/STranslate/STranslate) | 开源 Windows 翻译 + OCR 工具，划词、截图、剪贴板翻译，支持多翻译源并发对比和插件扩展，OCR 可离线 | 🔓 |
 
 ## ⌨️ 输入法
 
