@@ -75,6 +75,7 @@
 | 工具 | 描述 | 开源 |
 |------|------|------|
 | [ArcBrush](https://arcbrush.com/) | 节点式修图工具 |  |
+| [ImgFlow](https://imgflow.taoliapp.com/en/) | 浏览器本地图片压缩与转换（HEIC、WebP、AVIF、目标体积），文件不离开设备 |  |
 | [Upscayl](https://upscayl.org) | AI 图片无损放大，本地运行 | 🔓 |
 | [RapidRAW](https://github.com/CyberTimon/RapidRAW) | 轻量 GPU 加速 RAW 编辑器，界面简洁现代 | 🔓 |
 | [remove.photos](https://remove.photos/zh-cn/) | 在线 AI 抠图，无需注册，免费下载高清透明图 |  |
